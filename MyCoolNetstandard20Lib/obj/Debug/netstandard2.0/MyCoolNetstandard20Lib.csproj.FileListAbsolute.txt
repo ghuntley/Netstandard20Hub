@@ -1,0 +1,9 @@
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\bin\Debug\netstandard2.0\MyCoolNetstandard20Lib.deps.json
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\bin\Debug\netstandard2.0\MyCoolNetstandard20Lib.dll
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\bin\Debug\netstandard2.0\MyCoolNetstandard20Lib.pdb
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\obj\Debug\netstandard2.0\MyCoolNetstandard20Lib.csprojAssemblyReference.cache
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\obj\Debug\netstandard2.0\MyCoolNetstandard20Lib.csproj.CoreCompileInputs.cache
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\obj\Debug\netstandard2.0\MyCoolNetstandard20Lib.AssemblyInfoInputs.cache
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\obj\Debug\netstandard2.0\MyCoolNetstandard20Lib.AssemblyInfo.cs
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\obj\Debug\netstandard2.0\MyCoolNetstandard20Lib.dll
+C:\code\surfacehub\Netstandard20Hub\MyCoolNetstandard20Lib\obj\Debug\netstandard2.0\MyCoolNetstandard20Lib.pdb
